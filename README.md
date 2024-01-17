@@ -8,6 +8,7 @@ Welcome to the Hive and Query Optimization Notes repository! 🚀
 This repository contains comprehensive notes on Hive, a data warehousing and SQL-like query language for Apache Hadoop, along with insights into query optimization techniques.
 
 ## Contents
+- **DE Introduction:** Fundamental concepts DataEngineering.
 
 - **Hive Basics:** Fundamental concepts and syntax for working with Hive.
   
