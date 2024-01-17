@@ -12,7 +12,7 @@ This repository contains comprehensive notes on Hive, a data warehousing and SQL
 
 - **Hive Basics:** Fundamental concepts and syntax for working with Hive.
   
-- **Advanced Topics:** In-depth discussions on advanced Hive features and optimizations.
+- **Advanced Topics:** In-depth discussions on advanced Hive features and optimizations. Yet to be added here. 
 
 - **Query Optimization:** Strategies and best practices for optimizing Hive queries.
 
